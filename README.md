@@ -1,11 +1,9 @@
 # Calculadora
 Calculadora desenvolvida utilizando os conceitos de PyQt5.
 
-Bibliotecas utilizadas:
-
-import sys
-from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QGridLayout
-from PyQt5.QtWidgets import QPushButton, QLineEdit, QSizePolicy
+Bibliotecas utilizadas
+sys
+PyQt5
 
 Instalação: 
 pip install PyQt5
