@@ -1,7 +1,8 @@
 # Calculadora
 Calculadora desenvolvida utilizando os conceitos de PyQt5.
 
-Bibliotecas utilizadas
+Bibliotecas utilizadas: 
+
 sys
 PyQt5
 
