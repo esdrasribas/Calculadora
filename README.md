@@ -8,5 +8,8 @@ sys
 PyQt5
 
 Instalação: 
+
 pip install PyQt5
+
+
 pip install sys
